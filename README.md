@@ -22,15 +22,15 @@ It visualizes weather conditions, temperature trends, and forecasts across multi
 ---
 
 ## Tech Stack
-
-| Layer | Technology |
-|-------|-------------|
-| Frontend | React (Vite) |
-| State Management | Redux Toolkit |
-| Charts | Recharts |
-| API | WeatherAPI.com |
-| Storage | LocalStorage (for caching and favorites) |
-| Styling | Inline CSS with Flex Layout |
+______________________________________________________________
+| Layer            | Technology                               |
+|------------------|------------------------------------------|
+| Frontend         | React (Vite)                             |
+| State Management | Redux Toolkit                            |
+| Charts           | Recharts                                 |
+| API              | WeatherAPI.com                           |
+| Storage          | LocalStorage (for caching and favorites) |
+| Styling          | Inline CSS with Flex Layout              |
 
 ---
 
